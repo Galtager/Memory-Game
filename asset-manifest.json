@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Galtager/Memory-Game.git/static/css/main.b0147bc0.chunk.css",
+    "main.js": "/Galtager/Memory-Game.git/static/js/main.e7341476.chunk.js",
+    "main.js.map": "/Galtager/Memory-Game.git/static/js/main.e7341476.chunk.js.map",
+    "runtime-main.js": "/Galtager/Memory-Game.git/static/js/runtime-main.045374d4.js",
+    "runtime-main.js.map": "/Galtager/Memory-Game.git/static/js/runtime-main.045374d4.js.map",
+    "static/js/2.9d7f1a3f.chunk.js": "/Galtager/Memory-Game.git/static/js/2.9d7f1a3f.chunk.js",
+    "static/js/2.9d7f1a3f.chunk.js.map": "/Galtager/Memory-Game.git/static/js/2.9d7f1a3f.chunk.js.map",
+    "index.html": "/Galtager/Memory-Game.git/index.html",
+    "static/css/main.b0147bc0.chunk.css.map": "/Galtager/Memory-Game.git/static/css/main.b0147bc0.chunk.css.map",
+    "static/js/2.9d7f1a3f.chunk.js.LICENSE.txt": "/Galtager/Memory-Game.git/static/js/2.9d7f1a3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.045374d4.js",
+    "static/js/2.9d7f1a3f.chunk.js",
+    "static/css/main.b0147bc0.chunk.css",
+    "static/js/main.e7341476.chunk.js"
+  ]
+}
